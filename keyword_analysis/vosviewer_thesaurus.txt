@@ -1,0 +1,35 @@
+label	replace by
+water chemistry	hydrogeochemistry
+heavy metal contamination	heavy metals
+stable carbon isotopes	carbon isotopes
+nitrate contamination	nitrate
+groundwater contamination	
+landfill leachate	
+municipal solid waste landfill	
+groundwater quality	
+water quality index	
+manganese	
+lead	
+cadmium	
+surface water contamination	
+municipal solid waste	
+surface water quality	
+arsenic	
+chromium	
+iron	
+health risk assessment	
+leachate contamination	
+drinking water suitability	
+leachate pollution index	
+non-carcinogenic risk	
+physicochemical parameters	
+sodium	
+cancer risk	
+leachate treatment	
+drinking water quality	
+anthropogenic pollution	
+drinking water safety	
+groundwater remediation	
+leachate	
+landfill	
+water pollution	

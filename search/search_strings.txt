@@ -1,0 +1,36 @@
+Search strings of the review
+
+Scopus, title, abstract and keyword fields, searched 27 September 2026 (56, 103, 19, 163 and 401 records).
+
+String 1
+TITLE-ABS-KEY ( ( "landfill leachate" OR "municipal solid waste leachate" ) AND ( "groundwater" OR "aquifer" ) AND ( "source identification" OR "source attribution" OR "source discrimination" OR "contaminant tracing" OR "pollution source" ) )
+
+String 2
+TITLE-ABS-KEY ( "landfill leachate" AND "groundwater" AND ( "multivariate" OR "principal component analysis" OR "cluster analysis" OR "PCA" OR "HCA" ) )
+
+String 3
+TITLE-ABS-KEY ( "leachate" AND "groundwater" AND ( "hydrogeochemical" OR "hydrochemical" ) AND ( "background" OR "natural salinity" OR "discrimination" OR "attribution" ) )
+
+String 4
+TITLE-ABS-KEY ( "leachate" AND "groundwater" AND ( "stable isotopes" OR "δ34S" OR "δ18O" OR "chloride bromide" OR "Cl/Br" OR "bromide" ) )
+
+String 5
+TITLE-ABS-KEY ( ( "leachate plume" OR "landfill leachate" ) AND "groundwater" AND ( "ammonium" OR "NH4" OR "organic matter" OR "BOD" OR "COD" OR "contaminant indicator" ) )
+
+Web of Science Core Collection, topic field, searched 1 October 2026, refined to articles in English published from 2010 onwards (15, 49, 13, 50 and 214 records).
+
+String 1
+TS=( ( "landfill leachate" OR "municipal solid waste leachate" ) AND ( "groundwater" OR "aquifer" ) AND ( "source identification" OR "source attribution" OR "source discrimination" OR "contaminant tracing" OR "pollution source" ) )
+
+String 2
+TS=( "landfill leachate" AND "groundwater" AND ( "multivariate" OR "principal component analysis" OR "cluster analysis" OR "PCA" OR "HCA" ) )
+
+String 3
+TS=( "leachate" AND "groundwater" AND ( "hydrogeochemical" OR "hydrochemical" ) AND ( "background" OR "natural salinity" OR "discrimination" OR "attribution" ) )
+
+String 4
+TS=( "leachate" AND "groundwater" AND ( "stable isotopes" OR "δ34S" OR "δ18O" OR "chloride bromide" OR "Cl/Br" OR "bromide" ) )
+
+String 5
+TS=( ( "leachate plume" OR "landfill leachate" ) AND "groundwater" AND ( "ammonium" OR "NH4" OR "organic matter" OR "BOD" OR "COD" OR "contaminant indicator" ) )
+
