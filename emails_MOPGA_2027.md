@@ -45,3 +45,45 @@ Je joins mon CV, le résumé de ma thèse et le rapport de Messine. Je vous reme
 
 Mohamed-Amine Lahkim-Bennani
 [téléphone / e-mail / ORCID]
+
+---
+
+## 3. Gwenaël Imfeld (LHyGeS, Strasbourg)
+
+**Objet :** Candidature MOPGA 2027 : attribution isotopique de l'origine d'une contamination de nappe (lixiviats de décharge, Maroc)
+
+Cher Monsieur Imfeld,
+
+Je vous écris au sujet de la bourse MOPGA 2027, car l'approche isotopique que vous développez au LHyGeS répond à la question que ma thèse laisse ouverte. J'ai lu avec intérêt vos travaux de 2025 : l'intégration de l'analyse isotopique spécifique des composés (CSIA) dans un modèle de bassin versant distribué (HESS, avec Payraudeau et collègues), et l'étude de lysimètres couplant modélisation du transport réactif et CSIA sur la lixiviation et la dégradation de biocides en milieu urbain (Journal of Contaminant Hydrology).
+
+Je soutiens ma thèse le 24 octobre 2026 à la Faculté des Sciences et Techniques de Tanger (R&DGéoAp, direction du Pr Abdelhamid Rossi). Elle étudie l'impact des lixiviats de la nouvelle décharge de Tanger sur la nappe Charf El Akab, à partir de 24 échantillons issus de deux campagnes espacées de dix-huit mois. L'influence du lixiviat est réelle mais circonscrite à trois puits en aval. Le résultat principal est une erreur d'attribution évitée : le puits le plus dégradé du réseau (15 480 µS/cm, 2 114 mg/L de SO₄²⁻, fluorure maximal) n'est pas imputable à la décharge, car SO₄²⁻ et F⁻ sont sous la limite de détection dans le lixiviat et augmentent avec la distance au site. Les outils que j'ai utilisés (faciès, ACP, classification) permettent d'exclure une origine, mais pas d'identifier la vraie. Il faudrait des traceurs.
+
+Je souhaite donc proposer un projet de 12 mois (MOPGA 2027, à partir de septembre 2027) dont l'objet est de tracer l'origine de la minéralisation et des composés organiques du lixiviat par une approche multi-isotopique, par exemple δ³⁴S et δ¹⁸O des sulfates, couplés à la CSIA des contaminants organiques du lixiviat, puis de la relier à un modèle de transfert à l'échelle du bassin. Je suis conscient que votre expertise porte surtout sur les micropolluants organiques, et je serais heureux de connaître votre avis sur la pertinence de cette démarche pour un lixiviat de décharge.
+
+Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Seriez-vous disposé à échanger par visioconférence et à envisager de m'accueillir au LHyGeS ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
+
+Je joins mon CV et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
+
+Mohamed-Amine Lahkim-Bennani
+[téléphone / e-mail / ORCID]
+
+---
+
+## 4. Thibault Datry (INRAE RiverLY, Lyon-Villeurbanne)
+
+**Objet :** Candidature MOPGA 2027 : débits écologiques en rivières temporaires méditerranéennes et effet d'un barrage sur la phase d'assèchement
+
+Cher Monsieur Datry,
+
+Je vous écris au sujet de la bourse MOPGA 2027. Vos travaux de 2025 sur les rivières intermittentes me concernent directement. Je pense à la projection de l'intermittence des écoulements sous changement climatique dans les réseaux européens (HESS, Mimeau et collègues), qui prévoit un début d'assèchement plus précoce et plus durable, ainsi qu'à votre travail sur l'intermittence anthropique par opposition à l'intermittence naturelle, dont j'ai vu le titre sur la page de RiverLY.
+
+Je soutiens ma thèse le 24 octobre 2026 à Tanger, sur la contamination des eaux souterraines par les lixiviats de décharge. Mon deuxième axe est celui des débits environnementaux. Pour l'Université de Messine, j'ai réalisé une étude sur deux tronçons temporaires sous le barrage d'Olivo (Imera Meridionale, Sicile), par l'approche RVA. L'approche habituelle suppose une rivière qui coule toujours. J'ai donc ajouté un sixième groupe d'indicateurs consacré à la phase d'assèchement : nombre de jours secs, plus longue période sèche, nombre d'épisodes secs et date de début de l'assèchement. Le barrage ne transforme pas une rivière pérenne en rivière temporaire. Il retient la récession de fin d'hiver, ce qui avance l'assèchement de 18 à 19 jours dans les deux tronçons et l'allonge de deux à quatre semaines. J'en tire un calendrier de restitution de 0,33 Mm³, concentré en mars, et je recommande de ne pas soutenir l'étiage estival, qui est naturel.
+
+Cette étude a des limites que votre équipe est bien placée pour lever : les débits sont modélisés faute de jaugeage, les seuils d'état sec sont dérivés numériquement sans vérification de terrain, et les pertes par infiltration dans le lit ne sont pas quantifiées. Je souhaiterais, dans le cadre de MOPGA 2027 (12 mois à partir de septembre 2027), valider ces indicateurs d'assèchement avec des données biologiques et de terrain, et étendre l'approche à des bassins méditerranéens soumis au changement climatique. Je ferais le lien avec la contribution de la nappe au soutien d'étiage, qui est le sujet de ma thèse.
+
+Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Accepteriez-vous un échange par visioconférence et d'envisager de m'accueillir à RiverLY ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
+
+Je joins mon CV, le rapport de Messine et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
+
+Mohamed-Amine Lahkim-Bennani
+[téléphone / e-mail / ORCID]
