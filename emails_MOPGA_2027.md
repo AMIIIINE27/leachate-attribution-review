@@ -113,23 +113,23 @@ Mohamed-Amine Lahkim-Bennani
 
 ---
 
-## 6. Séverin Pistre (HydroSciences Montpellier)
+## 6. Pierre Marmonier (LEHNA, Université Lyon 1)
 
-**Objet :** Candidature MOPGA 2027 : hydrogéochimie et isotopes pour attribuer l'origine d'une contamination dans un aquifère méditerranéen côtier
+**Objet :** Candidature MOPGA 2027 : contamination des eaux souterraines, zone hyporhéique et pertes de transmission en rivière temporaire
 
-Cher Monsieur Pistre,
+Cher Monsieur Marmonier,
 
-Je vous écris au sujet de la bourse MOPGA 2027. Vos travaux récents sur les aquifères méditerranéens semi-arides du Maghreb, notamment l'étude de l'aquifère de Grombalia en Tunisie, la cartographie des zones de recharge d'un aquifère côtier du nord-est tunisien (2025), ainsi que vos travaux sur les isotopes stables de l'eau, correspondent au contexte de ma recherche.
+Je vous écris au sujet de la bourse MOPGA 2027. Le LEHNA associe écologie des hydrosystèmes et fonctionnement des eaux souterraines, avec des travaux récents sur le stockage de microplastiques à l'interface eau-sédiment d'une rivière à lit de graviers (Wazne et collègues, Water Research 2025) et sur l'origine et la vulnérabilité des eaux souterraines par approche multi-traceurs (Pinasseau et collègues). Ces deux directions rejoignent mes deux axes de recherche.
 
-Je soutiens ma thèse le 24 octobre 2026 à la Faculté des Sciences et Techniques de Tanger (R&DGéoAp, direction du Pr Abdelhamid Rossi). Elle étudie l'impact des lixiviats de la nouvelle décharge de Tanger sur la nappe Charf El Akab, à partir de 24 échantillons issus de deux campagnes espacées de dix-huit mois, traités par faciès hydrogéochimiques, ACP et classification hiérarchique. L'influence du lixiviat est réelle mais circonscrite à trois puits en aval. Surtout, le puits le plus dégradé (15 480 µS/cm, 2 114 mg/L de sulfates, fluorure maximal) n'est pas imputable à la décharge : sulfates et fluorure sont sous la limite de détection dans le lixiviat et augmentent avec la distance au site. La minéralisation ne suffit donc pas à établir l'origine d'une contamination, et l'origine réelle de celle de ce puits reste à déterminer.
+Je soutiens ma thèse le 24 octobre 2026 à la Faculté des Sciences et Techniques de Tanger (R&DGéoAp, direction du Pr Abdelhamid Rossi). Elle étudie l'impact des lixiviats de la nouvelle décharge de Tanger sur la nappe Charf El Akab, à partir de 24 échantillons issus de deux campagnes espacées de dix-huit mois. L'influence du lixiviat est réelle mais circonscrite à trois puits en aval. Le puits le plus dégradé du réseau (15 480 µS/cm, 2 114 mg/L de sulfates, fluorure maximal) n'est pas imputable à la décharge : sulfates et fluorure sont sous la limite de détection dans le lixiviat et augmentent avec la distance au site. Une approche multi-traceurs comme celle que votre laboratoire pratique permettrait de trancher sur son origine.
 
-Mon second axe porte sur les débits environnementaux en rivières temporaires méditerranéennes (rapport pour l'Université de Messine, sept. 2026, aval du barrage d'Olivo). La contribution de la nappe au soutien d'étiage y est une inconnue que je n'ai pas pu quantifier.
+Mon second axe porte sur les débits environnementaux. Pour l'Université de Messine, j'ai réalisé une étude sur deux tronçons temporaires sous le barrage d'Olivo (Imera Meridionale, Sicile), par l'approche RVA : le barrage avance l'assèchement de 18 à 19 jours en retenant la récession de fin d'hiver. Les pertes par infiltration dans le lit n'y sont pas quantifiées, alors qu'elles se jouent dans la zone hyporhéique, c'est-à-dire l'interface entre la rivière et la nappe que vous étudiez.
 
-Je souhaite proposer, pour MOPGA 2027 (12 mois à partir de septembre 2027), un projet d'attribution multi-traceurs dans l'aquifère de Tanger : δ²H et δ¹⁸O de l'eau, δ³⁴S et δ¹⁸O des sulfates, rapports ioniques et modélisation géochimique. Il s'agirait d'identifier l'origine de la minéralisation (lixiviat, formations géologiques, mélange avec une eau salée), puis de le comparer à vos aquifères tunisiens, afin de dégager une méthode d'attribution transférable aux aquifères côtiers du Maghreb.
+Je souhaite proposer, pour MOPGA 2027 (12 mois à partir de septembre 2027), un projet qui quantifie les échanges nappe-rivière et le rôle de la zone hyporhéique dans les rivières temporaires méditerranéennes, et qui y associe l'attribution multi-traceurs de l'origine de la contamination d'un aquifère adjacent. Je serais heureux d'avoir votre avis sur la faisabilité de ce projet dans votre laboratoire.
 
-Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Accepteriez-vous un échange par visioconférence et d'envisager de m'accueillir à HydroSciences Montpellier ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
+Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Accepteriez-vous un échange par visioconférence et d'envisager de m'accueillir au LEHNA ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
 
-Je joins mon CV et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
+Je joins mon CV, le rapport de Messine et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
 
 Mohamed-Amine Lahkim-Bennani
 [téléphone / e-mail / ORCID]
