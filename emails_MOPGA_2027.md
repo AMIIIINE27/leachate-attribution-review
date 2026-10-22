@@ -1,6 +1,6 @@
 # Emails MOPGA 2027 : candidature de séjour de recherche
 
-Pièces jointes à prévoir pour les deux mails : CV, résumé de thèse (CED), rapport technique « Environmental Flow Definition – Olivo Dam » (Université de Messine, sept. 2026), 1 page de projet.
+Pièces jointes à prévoir pour chaque mail : CV, résumé de thèse (CED), rapport technique « Environmental Flow Definition – Olivo Dam » (Université de Messine, sept. 2026), 1 page de projet.
 
 ---
 
@@ -84,6 +84,52 @@ Cette étude a des limites que votre équipe est bien placée pour lever : les d
 Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Accepteriez-vous un échange par visioconférence et d'envisager de m'accueillir à RiverLY ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
 
 Je joins mon CV, le rapport de Messine et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
+
+Mohamed-Amine Lahkim-Bennani
+[téléphone / e-mail / ORCID]
+
+---
+
+## 5. Nicolas Flipo (Géosciences, Mines Paris-PSL)
+
+**Objet :** Candidature MOPGA 2027 : modélisation couplée nappe-rivière, soutien d'étiage et pertes de transmission en milieu méditerranéen
+
+Cher Monsieur Flipo,
+
+Je vous écris au sujet de la bourse MOPGA 2027. Vos travaux sur la modélisation couplée surface-souterrain avec CaWaQS, notamment l'étude de la sensibilité des niveaux de nappe à la variabilité climatique basse fréquence dans le bassin de la Seine, ainsi que le développement d'outils de prétraitement hydroclimatique pour le bassin de la Loire (CawSAR, présenté à l'EGU 2026), portent sur la question que mon travail pose sans pouvoir la résoudre : quelle part des débits d'étiage vient de la nappe, et comment cette part change-t-elle sous contrainte climatique ?
+
+Je soutiens ma thèse le 24 octobre 2026 à la Faculté des Sciences et Techniques de Tanger (R&DGéoAp, direction du Pr Abdelhamid Rossi). Elle étudie l'impact des lixiviats de la décharge de Tanger sur la nappe Charf El Akab, qui alimente le sous-bassin du Mharhar. Le résultat principal est que le puits le plus dégradé du réseau n'est pas imputable à la décharge, alors qu'un suivi fondé sur la minéralisation seule l'aurait désigné comme tel.
+
+Mon second axe est celui des débits environnementaux. Pour l'Université de Messine, j'ai réalisé une étude sur deux tronçons temporaires sous le barrage d'Olivo (Imera Meridionale, Sicile), par l'approche RVA. Le barrage retient la récession de fin d'hiver, avance l'assèchement de 18 à 19 jours, et j'en tire un calendrier de restitution de 0,33 Mm³. Les débits y sont modélisés par transfert de paramètres faute de jaugeage, et les pertes par infiltration dans le lit, qui relèvent précisément des échanges nappe-rivière, ne sont pas quantifiées. Je pense qu'un modèle couplé comme CaWaQS est l'outil adapté pour les estimer.
+
+Je souhaite donc proposer, dans le cadre de MOPGA 2027 (12 mois à partir de septembre 2027), un projet de modélisation couplée nappe-rivière appliqué à un bassin méditerranéen semi-aride, afin de quantifier la contribution de la nappe au soutien d'étiage, les pertes de transmission, et la sensibilité de ces flux à la variabilité climatique. Je n'ai pas d'expérience de CaWaQS, mais je suis très motivé pour l'apprendre, et mes données de terrain (hydrochimie de la nappe, débits modélisés) pourraient servir de cas de test dans un contexte différent de vos bassins tempérés.
+
+Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Accepteriez-vous un échange par visioconférence et d'envisager de m'accueillir à Mines Paris-PSL (Fontainebleau) ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
+
+Je joins mon CV, le rapport de Messine et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
+
+Mohamed-Amine Lahkim-Bennani
+[téléphone / e-mail / ORCID]
+
+---
+
+## 6. Séverin Pistre (HydroSciences Montpellier)
+
+**Objet :** Candidature MOPGA 2027 : hydrogéochimie et isotopes pour attribuer l'origine d'une contamination dans un aquifère méditerranéen côtier
+
+Cher Monsieur Pistre,
+
+Je vous écris au sujet de la bourse MOPGA 2027. Vos travaux récents sur les aquifères méditerranéens semi-arides du Maghreb, notamment l'étude de l'aquifère de Grombalia en Tunisie, la cartographie des zones de recharge d'un aquifère côtier du nord-est tunisien (2025), ainsi que vos travaux sur les isotopes stables de l'eau, correspondent au contexte de ma recherche.
+
+Je soutiens ma thèse le 24 octobre 2026 à la Faculté des Sciences et Techniques de Tanger (R&DGéoAp, direction du Pr Abdelhamid Rossi). Elle étudie l'impact des lixiviats de la nouvelle décharge de Tanger sur la nappe Charf El Akab, à partir de 24 échantillons issus de deux campagnes espacées de dix-huit mois, traités par faciès hydrogéochimiques, ACP et classification hiérarchique. L'influence du lixiviat est réelle mais circonscrite à trois puits en aval. Surtout, le puits le plus dégradé (15 480 µS/cm, 2 114 mg/L de sulfates, fluorure maximal) n'est pas imputable à la décharge : sulfates et fluorure sont sous la limite de détection dans le lixiviat et augmentent avec la distance au site. La minéralisation ne suffit donc pas à établir l'origine d'une contamination, et l'origine réelle de celle de ce puits reste à déterminer.
+
+Mon second axe porte sur les débits environnementaux en rivières temporaires méditerranéennes (rapport pour l'Université de Messine, sept. 2026, aval du barrage d'Olivo). La contribution de la nappe au soutien d'étiage y est une inconnue que je n'ai pas pu quantifier.
+
+Je souhaite proposer, pour MOPGA 2027 (12 mois à partir de septembre 2027), un projet d'attribution multi-traceurs dans l'aquifère de Tanger : δ²H et δ¹⁸O de l'eau, δ³⁴S et δ¹⁸O des sulfates, rapports ioniques et modélisation géochimique. Il s'agirait d'identifier l'origine de la minéralisation (lixiviat, formations géologiques, mélange avec une eau salée), puis de le comparer à vos aquifères tunisiens, afin de dégager une méthode d'attribution transférable aux aquifères côtiers du Maghreb.
+
+Je suis non-français, je ne réside pas en France, et ma soutenance est dans la fenêtre d'éligibilité. Accepteriez-vous un échange par visioconférence et d'envisager de m'accueillir à HydroSciences Montpellier ? Le dossier demande le CV du référent scientifique du laboratoire d'accueil, et la date limite approche (mi-décembre selon mes informations).
+
+Je joins mon CV et le résumé de ma thèse. Je vous remercie de votre attention et vous prie d'agréer, Monsieur, mes salutations distinguées.
 
 Mohamed-Amine Lahkim-Bennani
 [téléphone / e-mail / ORCID]
