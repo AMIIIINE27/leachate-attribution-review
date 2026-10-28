@@ -1,6 +1,6 @@
 # Is It the Landfill? A Systematic Review of Methods for Attributing Groundwater Contamination to Landfill Leachate
 
-Supplementary materials and data of the systematic review by M-A.Lahkim-Bennani et al.2026
+Supplementary materials and data of the systematic review by M-A. Lahkim-Bennani et al. 2026
 
 ## Contents
 
