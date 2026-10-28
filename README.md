@@ -1,12 +1,12 @@
 # Is It the Landfill? A Systematic Review of Methods for Attributing Groundwater Contamination to Landfill Leachate
 
-Supplementary materials and data of the systematic review by Mohamed-Amine Lahkim-Bennani, Abdelhamid Rossi and Brunella Bonaccorso, submitted to *Water* (MDPI).
+Supplementary materials and data of the systematic review by M-A.Lahkim-Bennani et al.2026
 
 ## Contents
 
 | Folder | File | Content |
 |---|---|---|
-| `supplementary/` | `Supplementary_Tables_S1-S5.xlsx` | Table S1 reports not retrieved, Table S2 included studies with extracted data and appraisal, Table S3 excluded reports with reasons, Table S4 keyword thesaurus, Table S5 sensitivity analysis |
+| `supplementary/` | `Supplementary_Tables_S1-S7.xlsx` | Table S1 reports not retrieved, Table S2 included studies with extracted data, appraisal, aquifer class and attribution conclusion, Table S3 excluded reports with reasons, Table S4 keyword thesaurus, Table S5 sensitivity analysis, Table S6 robustness of the regional comparison, Table S7 aquifer type by class |
 | `supplementary/` | `FigS1_keyword_map.pdf`, `FigS1_keyword_map.png` | Figure S1, keyword co-occurrence map |
 | `search/` | `search_strings.txt` | The five search strings for Scopus and for Web of Science, with dates and record counts |
 | `search/` | `included_studies_133.csv` | Authors, year, title and DOI of the 133 included studies |
